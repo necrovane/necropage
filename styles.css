@@ -140,13 +140,13 @@ h1, h2, h3 {
 }
 
 .hero-logo {
-    height: 150px;
+    height: 100px;
     margin-bottom: 1rem;
     animation: glow 2s ease-in-out infinite alternate;
 }
 
 .hero-title {
-    font-size: 4rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
     animation: fadeInUp 2s ease-out;
 }
@@ -313,4 +313,5 @@ h1, h2, h3 {
     .band-members { grid-template-columns: 1fr; }
     .shows-list { grid-template-columns: 1fr; }
     .contact-links { flex-direction: column; align-items: center; }
+
 }
